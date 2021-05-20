@@ -1,4 +1,4 @@
-customhost = "employee.coghw13fheqo.us-east-2.rds.amazonaws.com"
+customhost = "employee.cowailclo8mg.us-east-1.rds.amazonaws.com"
 customuser = "intellipaat"
 custompass = "intellipaat123"
 customdb = "employee"
